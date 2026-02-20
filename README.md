@@ -12,7 +12,7 @@
 ### 🖼️ Screenshots
 | High-Energy Grid | Upgrade Shop |
 | :---: | :---: |
-| ![Grid Alignment](screenshot1.jpg) | ![Professional Shop](screenshot2.jpg) |
+| ![Grid Alignment](Screenshot1.jpg) | ![Professional Shop](Screenshot2.jpg) |
 
 ### 🎥 Gameplay Demo
 Check out the core loop, particle effects, and the shop system in action:
