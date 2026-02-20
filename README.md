@@ -16,7 +16,7 @@
 
 <div align="center">
   <h3>🎥 Gameplay Demo</h3>
-  <img src="Screenshots/gameplay.gif" width="600" alt="Phoenix Bloom Gameplay Demo">
+  <img src="Screenshots/gameplay.mp4" width="600" alt="Phoenix Bloom Gameplay Demo">
 </div>
 
 ---
