@@ -17,7 +17,7 @@
 <div align="center">
   <h3>🎥 Gameplay Demo</h3>
   <p>Check out the core loop, particle effects, and the shop system in action:</p>
-  <video src="[Screenshots/gameplay.mp4](https://github.com/ShadowMonarch0000/ShadowMonarch0000-Phoenix-Bloom/releases/download/v1.0.0/gameplay.mp4)" width="800" controls>
+  <video src="https://github.com/ShadowMonarch0000/ShadowMonarch0000-Phoenix-Bloom/releases/download/v1.0.0/gameplay.mp4" width="800" controls>
     Your browser does not support the video tag.
   </video>
 </div>
