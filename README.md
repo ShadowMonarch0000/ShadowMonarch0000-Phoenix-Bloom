@@ -16,10 +16,7 @@
 
 <div align="center">
   <h3>🎥 Gameplay Demo</h3>
-  <p>Check out the core loop, particle effects, and the shop system in action:</p>
-  <video src="Screenshots/gameplay.gif" width="800" controls="controls">
-    Your browser does not support the video tag.
-  </video>
+  <img src="Screenshots/gameplay.gif" width="600" alt="Phoenix Bloom Gameplay Demo">
 </div>
 
 ---
