@@ -16,7 +16,7 @@
 
 ### 🎥 Gameplay Demo
 Check out the core loop, particle effects, and the shop system in action:
-![Gameplay Preview](gameplay.gif)
+<video src="Screenshots/video1.mp4" controls="controls" style="max-width: 100%;"></video>
 
 ---
 
