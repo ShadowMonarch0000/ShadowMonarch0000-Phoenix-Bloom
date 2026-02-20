@@ -16,7 +16,7 @@
 
 ### 🎥 Gameplay Demo
 Check out the core loop, particle effects, and the shop system in action:
-<video src="Screenshots/video1.mp4" controls="controls" style="max-width: 100%;"></video>
+<video src="Screenshots/Phoenixbloom_v1.0 2026.02.20 - 11.56.48.02.mp4" controls="controls" style="max-width: 100%;"></video>
 
 ---
 
