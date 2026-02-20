@@ -14,9 +14,13 @@
 | :---: | :---: |
 | ![Grid Alignment](Screenshots/Screenshot1.png) | ![Professional Shop](Screenshots/Screenshot2.png) |
 
-### 🎥 Gameplay Demo
-Check out the core loop, particle effects, and the shop system in action:
-<video src="Screenshots/Phoenixbloom_v1.0 2026.02.20 - 11.56.48.02.mp4" controls="controls" style="max-width: 100%;"></video>
+<div align="center">
+  <h3>🎥 Gameplay Demo</h3>
+  <p>Check out the core loop, particle effects, and the shop system in action:</p>
+  <video src="Screenshots/gameplay_demo.mp4" width="800" controls>
+    Your browser does not support the video tag.
+  </video>
+</div>
 
 ---
 
