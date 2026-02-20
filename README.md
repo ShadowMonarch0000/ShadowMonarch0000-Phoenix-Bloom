@@ -1,5 +1,5 @@
 # 🦅 Phoenix Bloom
-**A Strategic 2D Incremental Management Game** *Developed by Aryan Kumar (UID: 24bcs10339)*
+**A Strategic 2D Incremental Management Game** *Developed by Aryan Kumar*
 
 ---
 
@@ -12,7 +12,7 @@
 ### 🖼️ Screenshots
 | High-Energy Grid | Upgrade Shop |
 | :---: | :---: |
-| ![Grid Alignment](Screenshot1.jpg) | ![Professional Shop](Screenshot2.jpg) |
+| ![Grid Alignment](Screenshot/Screenshot1.jpg) | ![Professional Shop](Screenshot/Screenshot2.jpg) |
 
 ### 🎥 Gameplay Demo
 Check out the core loop, particle effects, and the shop system in action:
