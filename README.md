@@ -16,7 +16,7 @@
 
 <div align="center">
   <h3>🎥 Gameplay Demo</h3>
-  <img src="[Screenshots/gameplay.mp4](https://github.com/ShadowMonarch0000/ShadowMonarch0000-Phoenix-Bloom/releases/download/v1.0.0/gameplay.mp4)" width="600" alt="Phoenix Bloom Gameplay Demo">
+  <img src="(https://github.com/ShadowMonarch0000/ShadowMonarch0000-Phoenix-Bloom/releases/download/v1.0.0/gameplay.mp4)" width="600" alt="Phoenix Bloom Gameplay Demo">
 </div>
 
 ---
